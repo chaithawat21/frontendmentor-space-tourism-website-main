@@ -50,7 +50,7 @@ function MainLayout() {
     setIsOpen(!isOpen);
   };
 
-  console.log(background)
+
 
   return (
     <div className={` min-h-[100vh] ${background} bg-no-repeat bg-cover bg-center font-Barlow`}>
